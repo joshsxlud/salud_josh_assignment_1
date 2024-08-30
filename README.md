@@ -22,3 +22,9 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
         modified:   README.md
+
+# Purpose of the following Commands:
+- `mkdir`: creates a new directory 
+- `cd`:changes the working directory 
+- `code`: launches Visual Studio Code
+- `ls`: displays the files within the current working directory 
