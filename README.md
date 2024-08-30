@@ -9,7 +9,7 @@ Josh Salud
 ## Assignment
 Assignment 1, grasping the basics of git and github. 
 
-# first git status output:
+# First git status output:
 On branch master
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
@@ -29,14 +29,14 @@ Changes not staged for commit:
 - `code`: launches Visual Studio Code.
 - `ls`: displays the files within the current working directory.
 
-# Why Version Control is Important
+# Why Version Control is Important:
 ## with version control, it is possible to:
 - Stay organized, track changes made to files and directories. With version control it is possible to reflect and compare with previous versions to better understand the code. 
 - Collaborate with other users, by allowing multiple users to access, modify and make changes/contribute to a project without conflict. 
 - Create branches of the same project. This allows users to work independently, test for proper functionality, and eventually merge back into the original branch. 
 - Control user access to certain parts of a project, to ensure that only authorized user can make changes to certain parts of a project, such as the master branch. 
 
-# purpose of the following git commands used in the assignment:
+# Purpose of the following git commands used in the assignment:
 - `git init`: Used to create a git repository in a directory that previously did not one. 
 - `git add`: Adds changes made to the staging area. 
 - `git status`: Displays the staging area for changes to be commited. 
@@ -49,3 +49,7 @@ Changes not staged for commit:
 - `git merge`: Used to combine the changes made in a different branch into another branch. 
 - `git log`: Displays all previous commits from a git repositories history. 
 
+# My Unique Touch
+## Describe something that sets you apart from others:
+- My drive and passion to learn something that I once saw as daunting. 
+- I previously thought that programming would be something that I would never be able to learn, but here I am. 
